@@ -1,0 +1,126 @@
+Useful links to HTML studies
+============================
+
+This web site describes history and background of various HTML versions:
+https://en.wikipedia.org/wiki/HTML
+
+This is a good place to learn basics. It has interactive tutorials:
+https://www.w3schools.com/html/default.asp
+
+MDN is excellent place to learn HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+Tutorialspoint is alternative place to learn HTML
+https://www.tutorialspoint.com/html/index.htm
+https://www.tutorialspoint.com/html5/index.htm
+
+Very good material for those writing professionally HTML and CSS:
+https://internetingishard.com/
+
+HTML5 Microdata
+https://splatworld.tv/what-is-microdata-a-detailed-look-at-schema-org/
+
+Semantic HTML theory
+https://internetingishard.com/html-and-css/semantic-html/
+
+
+
+Useful links to CSS studies
+===========================
+
+This web site describes history and background of various CSS versions:
+https://en.wikipedia.org/wiki/CSS
+
+This is a good place to learn basics. It has interactive tutorials:
+https://www.w3schools.com/html/default.asp
+
+MDN is excellent place to learn CSS
+https://developer.mozilla.org/en-US/docs/Learn/CSS
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+Tutorialspoint is alternative place to learn CSS
+https://www.tutorialspoint.com/css/index.htm
+
+Very good material for those writing professionally HTML and CSS:
+https://internetingishard.com/
+
+Bootstrap is used with HTML & CSS
+https://www.w3schools.com/bootstrap/default.asp
+https://www.w3schools.com/bootstrap4/default.asp
+
+Lots of tutorials and how-to:
+https://css-tricks.com/
+
+Fonts:
+https://www.dafont.com/
+https://fonts.google.com/
+
+Color map:
+http://paletton.com
+
+CSS tips and tricks:
+https://css-tricks.com/
+https://codepen.io/
+
+Flex Box is good library with CSS:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Ideas for artistry for CSS:
+http://csszengarden.com/
+
+Cheat sheets for CSS 
+https://htmlcheatsheet.com/css/
+
+
+
+JavaScript Links
+====================
+Koulutuksen tukena kannattaa lukea seuraavia verkkosivuja:
+https://www.w3schools.com/js/default.asp
+
+http://javascript.info/
+https://exploringjs.com/
+https://2ality.com
+
+Tämän viikon aikana kannattaa käydä läpi seuraavat verkkotehtävät (ja seuraavassa järjestyksessä):
+https://www.w3schools.com/js/exercise_js.asp
+
+JavaScriptistä kannattaa vielä lukea itseopiskeluna seuraavat esimerkit:
+https://www.w3schools.com/js/js_examples.asp
+
+Muuta hyvää luettavaa: Mozillan tutorialit ovat hyviä syvempään tiedonhankintaan:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+ECMAScript koulutuksen aikana käytiin läpi OOP koodausta. Tämä on ollut mahdollista myös ”vanhalla JavaScriptillä”, ja seuraava esimerkki kuvaa tätä oikein hyvin:
+http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
+
+Nykyaikainen tapa on ECMAScriptin kehityssivuilla:
+http://2ality.com/2015/02/es6-classes-final.html
+
+Nykyaikaista ECMAScript koodausta: 
+http://2ality.com/2016/02/ecmascript-2017.html
+
+
+Debugging
+
+https://medium.com/@interdigitizer/5-debugging-tools-every-javascript-programmer-should-know-and-use-38575141689c
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints
+
+https://blogs.msdn.microsoft.com/cbowen/2011/06/24/internet-explorer-9-developer-tools-deep-dive-part-3-debugging-javascript/
+
+https://developer.chrome.com/devtools
+
+Other good web sites:
+https://www.tutorialspoint.com/tutorialslibrary.htm
+
+stack overflow
+https://www.javatpoint.com/
+
+https://www.youtube.com/c/TheNetNinja/playlists
+https://www.mooc.fi/#courses
+
+
+
+
